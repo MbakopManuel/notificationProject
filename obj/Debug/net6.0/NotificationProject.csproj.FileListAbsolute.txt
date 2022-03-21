@@ -1,27 +1,54 @@
-E:\Project\NotificationProject\bin\Debug\net6.0\appsettings.Development.json
-E:\Project\NotificationProject\bin\Debug\net6.0\appsettings.json
-E:\Project\NotificationProject\bin\Debug\net6.0\NotificationProject.exe
-E:\Project\NotificationProject\bin\Debug\net6.0\NotificationProject.deps.json
-E:\Project\NotificationProject\bin\Debug\net6.0\NotificationProject.runtimeconfig.json
-E:\Project\NotificationProject\bin\Debug\net6.0\NotificationProject.dll
-E:\Project\NotificationProject\bin\Debug\net6.0\ref\NotificationProject.dll
-E:\Project\NotificationProject\bin\Debug\net6.0\NotificationProject.pdb
-E:\Project\NotificationProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
-E:\Project\NotificationProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-E:\Project\NotificationProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-E:\Project\NotificationProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-E:\Project\NotificationProject\obj\Debug\net6.0\NotificationProject.csproj.AssemblyReference.cache
-E:\Project\NotificationProject\obj\Debug\net6.0\NotificationProject.GeneratedMSBuildEditorConfig.editorconfig
-E:\Project\NotificationProject\obj\Debug\net6.0\NotificationProject.AssemblyInfoInputs.cache
-E:\Project\NotificationProject\obj\Debug\net6.0\NotificationProject.AssemblyInfo.cs
-E:\Project\NotificationProject\obj\Debug\net6.0\NotificationProject.csproj.CoreCompileInputs.cache
-E:\Project\NotificationProject\obj\Debug\net6.0\NotificationProject.MvcApplicationPartsAssemblyInfo.cs
-E:\Project\NotificationProject\obj\Debug\net6.0\NotificationProject.MvcApplicationPartsAssemblyInfo.cache
-E:\Project\NotificationProject\obj\Debug\net6.0\staticwebassets.build.json
-E:\Project\NotificationProject\obj\Debug\net6.0\staticwebassets.development.json
-E:\Project\NotificationProject\obj\Debug\net6.0\scopedcss\bundle\NotificationProject.styles.css
-E:\Project\NotificationProject\obj\Debug\net6.0\NotificationProject.csproj.CopyComplete
-E:\Project\NotificationProject\obj\Debug\net6.0\NotificationProject.dll
-E:\Project\NotificationProject\obj\Debug\net6.0\ref\NotificationProject.dll
-E:\Project\NotificationProject\obj\Debug\net6.0\NotificationProject.pdb
-E:\Project\NotificationProject\obj\Debug\net6.0\NotificationProject.genruntimeconfig.cache
+E:/Project/NotificationProject/bin/Debug/net6.0/appsettings.Development.json
+E:/Project/NotificationProject/bin/Debug/net6.0/appsettings.json
+E:/Project/NotificationProject/bin/Debug/net6.0/NotificationProject.exe
+E:/Project/NotificationProject/bin/Debug/net6.0/NotificationProject.deps.json
+E:/Project/NotificationProject/bin/Debug/net6.0/NotificationProject.runtimeconfig.json
+E:/Project/NotificationProject/bin/Debug/net6.0/NotificationProject.dll
+E:/Project/NotificationProject/bin/Debug/net6.0/ref/NotificationProject.dll
+E:/Project/NotificationProject/bin/Debug/net6.0/NotificationProject.pdb
+E:/Project/NotificationProject/bin/Debug/net6.0/Microsoft.OpenApi.dll
+E:/Project/NotificationProject/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+E:/Project/NotificationProject/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+E:/Project/NotificationProject/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+E:/Project/NotificationProject/obj/Debug/net6.0/NotificationProject.csproj.AssemblyReference.cache
+E:/Project/NotificationProject/obj/Debug/net6.0/NotificationProject.GeneratedMSBuildEditorConfig.editorconfig
+E:/Project/NotificationProject/obj/Debug/net6.0/NotificationProject.AssemblyInfoInputs.cache
+E:/Project/NotificationProject/obj/Debug/net6.0/NotificationProject.AssemblyInfo.cs
+E:/Project/NotificationProject/obj/Debug/net6.0/NotificationProject.csproj.CoreCompileInputs.cache
+E:/Project/NotificationProject/obj/Debug/net6.0/NotificationProject.MvcApplicationPartsAssemblyInfo.cs
+E:/Project/NotificationProject/obj/Debug/net6.0/NotificationProject.MvcApplicationPartsAssemblyInfo.cache
+E:/Project/NotificationProject/obj/Debug/net6.0/staticwebassets.build.json
+E:/Project/NotificationProject/obj/Debug/net6.0/staticwebassets.development.json
+E:/Project/NotificationProject/obj/Debug/net6.0/scopedcss/bundle/NotificationProject.styles.css
+E:/Project/NotificationProject/obj/Debug/net6.0/NotificationProject.csproj.CopyComplete
+E:/Project/NotificationProject/obj/Debug/net6.0/NotificationProject.dll
+E:/Project/NotificationProject/obj/Debug/net6.0/ref/NotificationProject.dll
+E:/Project/NotificationProject/obj/Debug/net6.0/NotificationProject.pdb
+E:/Project/NotificationProject/obj/Debug/net6.0/NotificationProject.genruntimeconfig.cache
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/obj/Debug/net6.0/NotificationProject.csproj.AssemblyReference.cache
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/obj/Debug/net6.0/NotificationProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/obj/Debug/net6.0/NotificationProject.AssemblyInfoInputs.cache
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/obj/Debug/net6.0/NotificationProject.AssemblyInfo.cs
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/obj/Debug/net6.0/NotificationProject.csproj.CoreCompileInputs.cache
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/obj/Debug/net6.0/NotificationProject.MvcApplicationPartsAssemblyInfo.cs
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/obj/Debug/net6.0/NotificationProject.MvcApplicationPartsAssemblyInfo.cache
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/obj/Debug/net6.0/NotificationProject.dll
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/obj/Debug/net6.0/NotificationProject.pdb
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/bin/Debug/net6.0/appsettings.Development.json
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/bin/Debug/net6.0/appsettings.json
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/bin/Debug/net6.0/NotificationProject
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/bin/Debug/net6.0/NotificationProject.deps.json
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/bin/Debug/net6.0/NotificationProject.runtimeconfig.json
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/bin/Debug/net6.0/NotificationProject.dll
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/bin/Debug/net6.0/NotificationProject.pdb
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/obj/Debug/net6.0/staticwebassets.build.json
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/obj/Debug/net6.0/staticwebassets.development.json
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/obj/Debug/net6.0/scopedcss/bundle/NotificationProject.styles.css
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/obj/Debug/net6.0/NotificationProject.csproj.CopyComplete
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/obj/Debug/net6.0/refint/NotificationProject.dll
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/obj/Debug/net6.0/NotificationProject.genruntimeconfig.cache
+/Users/manher/Documents/Projets/Loic Evans/notificationProject/obj/Debug/net6.0/ref/NotificationProject.dll

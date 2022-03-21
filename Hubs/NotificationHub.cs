@@ -8,7 +8,7 @@ namespace Hubs
     public interface INotificationHub
     {
         Task JoinNotification(string UserId);
-        Task SendNotification(string UserId, NotificationModel Notification);
+        Task SendNotification(string UserId, Notification Notification);
 
     }
 
@@ -20,12 +20,12 @@ namespace Hubs
             _context = context;
         }
         
-        public Task JoinNotification(string UserId)
-            =>  _context.Groups.AddToGroupAsync(this.Context.ConnectionId, UserId.ToString());
+        public Task JoinNotification(string ReferenceId)
+            =>  _context.Groups.AddToGroupAsync(this.Context.ConnectionId, ReferenceId.ToString());
         public Task RemoveFromGroupNotification(string GroupId)
             => _context.Groups.RemoveFromGroupAsync(this.Context.ConnectionId, GroupId);
-        public  Task SendNotification(string UserId, NotificationModel Notification)
-            =>   _context.Clients.Group(UserId).SendAsync("ReceiveNotification", Notification);
+        public  Task SendNotification(string ReferenceId, Notification Notification)
+            =>   _context.Clients.Group(ReferenceId).SendAsync("ReceiveNotification", Notification);
 
         public string GetConnectionId() => this.Context.ConnectionId;
 

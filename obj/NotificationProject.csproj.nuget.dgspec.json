@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Project\\NotificationProject\\NotificationProject.csproj": {}
+    "/Users/manher/Documents/Projets/Loic Evans/notificationProject/NotificationProject.csproj": {}
   },
   "projects": {
-    "E:\\Project\\NotificationProject\\NotificationProject.csproj": {
+    "/Users/manher/Documents/Projets/Loic Evans/notificationProject/NotificationProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\NotificationProject\\NotificationProject.csproj",
+        "projectUniqueName": "/Users/manher/Documents/Projets/Loic Evans/notificationProject/NotificationProject.csproj",
         "projectName": "NotificationProject",
-        "projectPath": "E:\\Project\\NotificationProject\\NotificationProject.csproj",
-        "packagesPath": "C:\\Users\\INTEKOR\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\NotificationProject\\obj\\",
+        "projectPath": "/Users/manher/Documents/Projets/Loic Evans/notificationProject/NotificationProject.csproj",
+        "packagesPath": "/Users/manher/.nuget/packages/",
+        "outputPath": "/Users/manher/Documents/Projets/Loic Evans/notificationProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\INTEKOR\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/manher/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -27,13 +27,13 @@ namespace NotificationProject.Controllers
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]    
         [ProducesResponseType(StatusCodes.Status400BadRequest)]   
         [HttpPost]
-        public async Task<ActionResult<NotificationModel>> Create([FromBody] NotificationModel viewModel)
+        public async Task<ActionResult<Notification>> Create([FromBody] Notification viewModel)
         {
 
            try
             {
                 // send notification
-                await _notificationHub.SendNotification(viewModel.userId, viewModel);
+                await _notificationHub.SendNotification(viewModel.ReferenceId, viewModel);
 
                 return viewModel;
             }
